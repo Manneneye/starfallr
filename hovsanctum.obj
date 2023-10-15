@@ -1,7 +1,7 @@
 # Blender 3.6.4
 # www.blender.org
 mtllib hovsanctum.mtl
-o Accelerator_Lvl2.mo
+o Accelerator
 v -0.328891 48.220158 -28.941139
 v 0.328878 48.220150 -29.033731
 v -0.046309 48.220173 -29.316338
